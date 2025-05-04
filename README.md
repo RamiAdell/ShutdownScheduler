@@ -14,7 +14,7 @@ This is a simple Java GUI application created in **2021**. It was my first Java 
 
 ## How to Use
 
-1. Run the application.
+1. Run the application. Or open jar file directly from /dist directory
 2. Enter the number of minutes you want before shutdown.
 3. Click **Set Timer** to schedule the shutdown.
 4. To cancel the scheduled shutdown, click **Reset**.
